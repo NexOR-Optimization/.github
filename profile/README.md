@@ -1,5 +1,7 @@
 ## NexOR Optimization
 
+![NexOR Optimization](linkedin_banner.png)
+
 **We turn hard optimisation problems into plans you can run.**
 
 NexOR is an optimisation company for industry, based in Court-Saint-Étienne, Belgium. We
